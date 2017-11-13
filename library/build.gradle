@@ -14,10 +14,12 @@ android {
     lintOptions {
         abortOnError false
     }
+    buildToolsVersion '26.0.2'
 }
 
 dependencies {
-    compile 'com.pnikosis:materialish-progress:1.0'
+    compile 'com.pnikosis:materialish-progress:1.7'
 }
 
-apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'
+// I may push to maven central at some point, for now just using jitpack.io.
+// apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'

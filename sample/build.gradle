@@ -23,9 +23,9 @@ android {
             shrinkResources true
         }
     }
+    buildToolsVersion '26.0.2'
 }
 
 dependencies {
-    //compile 'cn.pedant.sweetalert:library:1.3'
     compile project(':library')
 }

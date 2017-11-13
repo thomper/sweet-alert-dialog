@@ -1,7 +1,8 @@
-package cn.pedant.SweetAlert;
+package com.ontbee.legacyforks.cn.pedant.SweetAlert;
 
 import android.content.Context;
 
+import com.ontbee.legacyforks.cn.pedant.SweetAlert.R;
 import com.pnikosis.materialishprogress.ProgressWheel;
 
 public class ProgressHelper {

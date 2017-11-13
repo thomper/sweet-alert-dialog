@@ -1,4 +1,4 @@
-package cn.pedant.SweetAlert;
+package com.ontbee.legacyforks.cn.pedant.SweetAlert;
 
 
 import android.app.Dialog;
@@ -17,6 +17,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.ontbee.legacyforks.cn.pedant.SweetAlert.R;
 import com.pnikosis.materialishprogress.ProgressWheel;
 
 import java.util.List;

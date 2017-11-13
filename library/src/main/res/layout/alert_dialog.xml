@@ -73,7 +73,7 @@
             android:layout_height="match_parent"
             android:background="@drawable/success_circle" />
 
-        <cn.pedant.SweetAlert.SuccessTickView
+        <com.ontbee.legacyforks.cn.pedant.SweetAlert.SuccessTickView
             android:id="@+id/success_tick"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
@@ -113,7 +113,7 @@
             android:id="@+id/progressWheel"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            wheel:progressIndeterminate="true"
+            wheel:matProg_progressIndeterminate="true"
             android:layout_gravity="center" />
     </FrameLayout>
 

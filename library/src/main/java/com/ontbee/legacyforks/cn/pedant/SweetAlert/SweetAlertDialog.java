@@ -182,6 +182,12 @@ public class SweetAlertDialog extends Dialog implements View.OnClickListener {
         mSuccessRightMask.clearAnimation();
     }
 
+    public void hideConfirmButton(){
+        if(mConfirmButton != null){
+            mConfirmButton.setVisibility(View.GONE);
+        }
+    }
+    
     private void playAnimation () {
         if (mAlertType == ERROR_TYPE) {
             mErrorFrame.startAnimation(mErrorInAnim);

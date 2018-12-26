@@ -5,6 +5,8 @@ The original readme with minor alterations follows.  I've removed the Chinese la
 
 I did not write this library, all credit goes to pedant.
 
+I've also remvoed all reference's to the original author's website as it appears to have been offline for some time (pedant dot cn).
+
 Sweet Alert Dialog
 ===================
 SweetAlert for Android, a beautiful and clever alert dialog
@@ -150,7 +152,7 @@ Show the cancel button and bind listener to it：
         })
         .show();
 
-[more android tech shares: pedant.cn](http://www.pedant.cn)
+The original author had a link to their website here.  Since the website is down, here's a link to their [github page](https://github.com/pedant)
 
 ## License
 

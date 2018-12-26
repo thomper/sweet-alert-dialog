@@ -5,7 +5,7 @@ The original readme with minor alterations follows.  I've removed the Chinese la
 
 I did not write this library, all credit goes to pedant.
 
-I've also remvoed all reference's to the original author's website as it appears to have been offline for some time (pedant dot cn).
+I've also removed references to the original author's website as it appears to have been offline for some time (pedant dot cn).
 
 Sweet Alert Dialog
 ===================

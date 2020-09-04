@@ -1,5 +1,7 @@
-## Attention: This is a fork of the apparently dead project https://github.com/pedant/sweet-alert-dialog/
-**The only changes made are to update it to work with materialish-progress 1.7 and the current gradle build tools.**
+## Attention: this is unmaintained, please use F0RIS' active fork instead: https://github.com/F0RIS/sweet-alert-dialog
+
+**This was a fork of the apparently dead project https://github.com/pedant/sweet-alert-dialog/
+**The only changes made were to update it to work with materialish-progress 1.7 and the current-at-the-time gradle build tools.**
 
 The original readme with minor alterations follows.  I've removed the Chinese language readme as I can only read and write English.
 
